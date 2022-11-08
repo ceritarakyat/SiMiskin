@@ -1,0 +1,34 @@
+
+.text1 {
+  color: #fff;
+  background-color: dark;
+  text-align: justify;
+  align-items: center;
+}
+
+.cerita {
+  padding: 0px;
+  margin: 0px;
+  background-color: dark;
+}
+.carousel-inner {
+  width: 100%;
+}
+
+.carousel-item {
+  width: 100%;
+}
+.carousel-item img {
+  width: 100%;
+}
+footer {
+  padding: 2ssss0px 0;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+}
+.container{
+	background-color:#000;}
+.gb{
+	text-decoration:none
+	}
